@@ -4,7 +4,8 @@
 //
 //  Created by Michaella Baltazar on 1/15/20.
 //  Copyright © 2020 Michaella Baltazar. All rights reserved.
-//  Collaborator: Big C++ Textbook 
+//  Collaborator: Big C++ Textbook
+//  "I pledge that I have neither given nor received unauthorized assistance on this assignment."
 
 #include "TreeNode.h"
 
